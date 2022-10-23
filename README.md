@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript
 - 💞️ I’m looking to collaborate on rebuiling web pages and learn new tricks along the way
 
-- 📫 How to reach me 
+<!---📫 How to reach me --->
 
 
 <!---
